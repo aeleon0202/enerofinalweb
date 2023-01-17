@@ -1,0 +1,21 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyanderl.appspot.com/o/linkin-park.jpg?alt=media&token=2328acc2-c0ec-4c22-bded-cd3185e91125');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
+
+.imagen{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotylflm.appspot.com/o/coldplay-argentina-river.webp?alt=media&token=da89d606-1cfe-4eef-9faa-163a13d50b20');
+    background-size: cover;
+    padding: 30%;
+}
+
+.color{
+    color: #784195;
+}
+
+.fondo{
+    background-color: #784195;
+}
